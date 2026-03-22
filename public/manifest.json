@@ -1,10 +1,10 @@
 {
-  "name": "eBroker",
-  "short_name": "eBroker",
-  "description": "Empower Your Real Estate Business",
+  "name": "PrimeRealEstate",
+  "short_name": "PrimeRealEstate",
+  "description": "Find your dream home with Prime Real Estate. connect with top agents, and discover the perfect property for you.",
   "start_url": "/",
   "display": "standalone",
-  "theme_color": "#087c7c",
+  "theme_color": "303f7e",
   "background_color": "#f5f5f4",
   "icons": [
     {
@@ -66,7 +66,7 @@
       "sizes": "512x512",
       "type": "image/png",
       "platform": "wide",
-      "label": "eBroker Home Screen"
+      "label": "PrimeRealEstate Home Screen"
     }
   ],
   "capture_links": "existing-client-navigate",
@@ -77,7 +77,7 @@
   "edge_side_panel": {
     "preferred_width": 400
   },
-  "id": "ebroker-pwa",
+  "id": "primerealestate-pwa",
   "file_handlers": [],
   "protocol_handlers": []
 }
